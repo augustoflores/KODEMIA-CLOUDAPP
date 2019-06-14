@@ -1,6 +1,6 @@
 ---
 applications:
- - name: kca-south
+ - name: kca-sidney6
    random-route: false
    memory: 128M
 
